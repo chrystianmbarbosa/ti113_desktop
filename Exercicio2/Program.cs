@@ -10,7 +10,7 @@
             switch (opcao)
             {
                 case "1":
-                    Console.WriteLine("Domingo");
+                    Console.WriteLine("Domingo");  
                     break;
                 case "2":
                     Console.WriteLine("Segunda-feira");
